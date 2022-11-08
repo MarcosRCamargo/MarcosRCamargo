@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Conecta-lá](https://github.com/ConectaLa/Fase1)
+- 🔭 I’m currently working on [Conecta-lá](https://www.linkedin.com/company/conecta-la)
 
 - 🌱 I’m currently learning **Reac and React-Native**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/marcosrubenscamargo/recent-activity/posts/](https://www.linkedin.com/in/marcosrubenscamargo/recent-activity/posts/)
 
-- 💬 Ask me about **php,**
+- 💬 Ask me about ** PHP, APIs, Laravel, JavaScript**
 
 - 📫 How to reach me **marcos.marrize@gmail.com**
 
