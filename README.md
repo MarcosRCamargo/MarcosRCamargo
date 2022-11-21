@@ -37,22 +37,23 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&locale=en&layout=compact&theme=radical" alt="marcosrcamargo" />
+
 </p>
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrcamargo&theme=radical" alt="marcosrcamargo" />
-</p>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrcamargo&theme=radical" alt="marcosrcamargo" />
+</p> -->
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marcosrcamargo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <h3 align="left">If you whant:</h3>
+<hr>
 <p><a href="https://ko-fi.com/marcosrcamargo"> 
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="marcosrcamargo" /></a></p>
-<hr>
+
