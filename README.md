@@ -42,8 +42,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&locale=en&layout=compact&theme=radical" alt="marcosrcamargo" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&locale=en&layout=compact&theme=radical" alt="marcosrcamargo" />
+</p>
+<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrcamargo&theme=radical" alt="marcosrcamargo" />
 </p>
  <br />
