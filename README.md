@@ -1,32 +1,30 @@
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Conecta-lá](https://www.linkedin.com/company/conecta-la)
 
 - 🌱 I’m currently learning **Reac and React-Native**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/marcosrubenscamargo/recent-activity/posts/](https://www.linkedin.com/in/marcosrubenscamargo/recent-activity/posts/)
+- 📝 I regularly write articles on [Articles - Linkedin](https://www.linkedin.com/in/marcosrubenscamargo/recent-activity/posts/)
 
 - 💬 Ask me about ** PHP, APIs, Laravel, JavaScript**
 
 - 📫 How to reach me **marcos.marrize@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/marcosrcamargo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/c/@marcosrcamargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marcosrcamargo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/marcos_marrize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marcos_marrize" height="30" width="40" /></a>
-</p>
-<a href="https://www.linkedin.com/in/marcosrcamargo/">
-  <img align="left" alt="marcosrcamargo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<h3 align="left">Social Connect:</h3>
+<hr>
+<p align="center">
+<a href="https://instagram.com/marcosrcamargo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/marcosrcamargo">
-  <img align="left" alt="marcosrcamargo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.youtube.com/c/@marcosrcamargo" target="blank">
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/marcosrcamargo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/marcosrcamargo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=marcosrcamargo)
 
+<hr>
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -44,14 +42,15 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&locale=en&layout=compact&theme=radical" alt="marcosrcamargo" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrcamargo&theme=radical" alt="marcosrcamargo" /></p>
- 
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&locale=en&layout=compact&theme=radical" alt="marcosrcamargo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrcamargo&theme=radical" alt="marcosrcamargo" />
+</p>
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marcosrcamargo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/marcosrcamargo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="marcosrcamargo" /></a></p><br><br>
+<h3 align="left">If you whant:</h3>
+<p><a href="https://ko-fi.com/marcosrcamargo"> 
+<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="marcosrcamargo" /></a></p>
+<hr>
