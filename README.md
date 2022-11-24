@@ -41,7 +41,7 @@ logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ## Contribuições no trabalho
-<hr />
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcos-Camargo&theme=dark&locale=pt-br)](https://git.io/streak-stats)
 <hr />
 ## &#x1f4c8; GitHub Stats
