@@ -39,6 +39,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+## Contribuições no trabalho
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcos-Camargo&theme=dark&locale=pt-br)](https://git.io/streak-stats)
 ## &#x1f4c8; GitHub Stats
 
 <p>
