@@ -63,11 +63,7 @@ Além disso, construo projetos próprios e compartilho o processo, não só o re
 
 ## 📊 Estatísticas
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosrcamargo&show_icons=true&layout=compact&theme=radical" />
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marcosrcamargo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosRCamargo&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
